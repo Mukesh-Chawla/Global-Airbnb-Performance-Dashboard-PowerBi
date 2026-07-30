@@ -6,13 +6,13 @@
   In this project, I developed a Power BI dashboard to visually analyze Airbnb data, aiming to provide clear insights into booking patterns, accommodation preferences, and other significant metrics.
 
 
-   ## 📌 Project Overview
+## 📌 Project Overview
 
 - The **Global Airbnb Performance Dashboard** is an interactive Power BI dashboard designed to analyze Airbnb listings across multiple locations. 
   Using a dataset sourced from Kaggle, this project provides insights into listing performance, pricing trends, host activity, customer ratings, and property distribution to support data-driven decision-making.
 
 
-  ## 📊 Dashboard Features
+## 📊 Dashboard Features
 
 - 📌 Total Listings
 - 💰 Average Price
@@ -26,7 +26,7 @@
 - 🎛️ Interactive Filters (Slicers)
 
 
-  ## 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - Power BI Desktop
 - Power Query
@@ -62,5 +62,12 @@ The dataset contains Airbnb listing information, including:
 - Price
 - Availability
 - Review Scores
+
+
+## 📷 Dashboard Preview
+
+### Dashboard Overview
+
+![Dashboard Screenshot](images/dashboard.png)
 
 
