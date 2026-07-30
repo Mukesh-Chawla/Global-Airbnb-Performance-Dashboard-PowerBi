@@ -82,6 +82,26 @@ The dataset contains Airbnb listing information, including:
 
 
 
+## 📁 Project Structure
+
+```
+Global-Airbnb-Performance-Dashboard/
+│
+├── 📂 Data/
+│   └── Listings.zip
+│
+├── 📂 Dashboard/
+│   ├── AirbnbDashboard
+│   └── Dax Formulas.xlsx
+│
+├── 📂 Assets/
+│   └── Snapshot of the Dashboard.png
+│
+└── README.md
+```
+
+
+
 ## 👨‍💻 Author
 
 **Mukesh Chawla**
