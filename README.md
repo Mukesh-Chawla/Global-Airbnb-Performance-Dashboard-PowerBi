@@ -66,8 +66,7 @@ The dataset contains Airbnb listing information, including:
 
 ## 📷 Dashboard Preview
 
-### Dashboard Overview
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](https://github.com/Mukesh-Chawla/Global-Airbnb-Performance-Dashboard-PowerBi/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
 
